@@ -5,12 +5,8 @@ This project involves tracking extreme and prolonged warming events in sea surfa
 
 **Project Permissions:**
 
-Leads:  Hillary Scannell (UW)
-        Chris Fraley (Tableau)
-        Sarah Battersby (Tableau)
+Leads: Hillary Scannell (UW), Chris Fraley (Tableau), Sarah Battersby (Tableau)
         
-Colabs: Kevin Binz (Tableau)
-        Nathan Mannheimer (Tableau)
-        LuAnne Thompson (UW)
+Colaborators: Kevin Binz (Tableau), Nathan Mannheimer (Tableau), LuAnne Thompson (UW)
         
         
