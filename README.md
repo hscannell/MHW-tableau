@@ -8,7 +8,7 @@ This project involves tracking extreme and prolonged warming events in sea surfa
         
 **Collaborators:** Kevin Binz (Tableau), Nathan Mannheimer (Tableau), Robert Kincaid (Tableau), LuAnne Thompson (UW)
 
-
+***
 Related Tutorials:
 - https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 - https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/
