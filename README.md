@@ -11,7 +11,7 @@ This project involves tracking extreme and prolonged warming events in sea surfa
 
 ***
 
-![Location of Initial time series](https://raw.githubusercontent.com/hscannell/MHWpredict/master/data/datamap.png)
+![Location of Initial time series](https://github.com/hscannell/MHWpredict/blob/master/data/datamap.png)
 
 ***
 Related Tutorials:
