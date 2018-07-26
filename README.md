@@ -6,8 +6,8 @@ This project involves tracking extreme and prolonged warming events in sea surfa
 
 **Project Team:** Hillary Scannell<sup>:mortar_board:</sup>, Chris Fraley<sup>:globe_with_meridians:</sup>, Sarah Battersby<sup>:globe_with_meridians:</sup>, Kevin Binz<sup>:globe_with_meridians:</sup> , Nathan Mannheimer<sup>:globe_with_meridians:</sup> , Robert Kincaid<sup>:globe_with_meridians:</sup>
 
-*:mortar_board: University of Washington
-:globe_with_meridians: Tableau Software*
+:mortar_board: *University of Washington*
+:globe_with_meridians: *Tableau Software*
 
 
 ***
