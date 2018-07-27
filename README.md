@@ -17,7 +17,7 @@ This project involves tracking extreme and prolonged warming events in sea surfa
 
 ***
 ### Leader Board 
-*Average score across all four time series (30n120w, 30n140w, 40n160w, & 50n140w), unless otherwise noted.
+*Average score across all four time series (30n120w, 30n140w, 40n160w, & 50n140w) unless otherwise noted.
 
 | Model | Description | Error |
 |---|---|---|
