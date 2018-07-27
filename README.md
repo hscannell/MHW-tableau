@@ -26,12 +26,9 @@ Average score across all four time series (30n120w, 30n140w, 40n160w, & 50n140w)
 | ARMA | AutoRegressive Moving Average, order(6,2) | MSE = 0.13 |
 | SARIMAX | Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors, order(6,2,1)(6,2,1,4) | MSE = 0.13 | 
 | Persistence | "walk-forward" validation | MSE = 0.28 (1-day), 0.29 (3-day), 0.65 (9-day) |
-
-| Long Short-Term Memory (LSTM) | Architecture | Error |
-|---|---|---|
-|LSTM_1var | Sequential 5 neuron LSTM, 1 neuron Dense output layer, tanh activation, SGD optimizer, fit with 20 epochs, 520 batch size, forecasting 5-day sequence based on the previous 20 days, features are only SST | |
-
-
+|LSTM_1var | 5 neuron LSTM, 1 neuron Dense output layer, tanh activation, SGD optimizer, fit with 20 epochs, 520 batch size, forecasting 5-day sequence based on the previous 20 days, features are only SST | |
+| LSTM_adjacent | LSTM trained on the SST from a neighboring grid cells | *in prog.*|
+| LSTM_5var | 30 neuron LSTM, 1 neurton Dense output, tanh activation, SGD optimizer, 20 epochs, 800 batch_size, forecasting 21-day sequences based on the previous 100 days | |   
 
 ***
 Related Tutorials:
